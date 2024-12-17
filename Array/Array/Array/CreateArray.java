@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 import java.util.Arrays;
 public class CreateArray {
     public static void main(String[] args) {
