@@ -79,5 +79,4 @@ public class pairSum {
         int target = 6;
         System.out.println("Number of pairs with sum " + target + " is: " + optimizedPairSum(arr, target));
     }
-    
 }
