@@ -3,7 +3,7 @@
 
 
 
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 
 public class MinMax {
     public static int getMin(int arr[], int n){

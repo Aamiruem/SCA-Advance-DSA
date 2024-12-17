@@ -1,4 +1,4 @@
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 public class ReversedArrays {
 
     public static void ReversedArr(int arr[]){

@@ -1,5 +1,5 @@
 // swapping its self 
-package Array;
+// package Array;
 
 public class Swapping {
 

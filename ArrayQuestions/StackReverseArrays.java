@@ -1,4 +1,4 @@
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 import java.util.Stack;
 
 public class StackReverseArrays {

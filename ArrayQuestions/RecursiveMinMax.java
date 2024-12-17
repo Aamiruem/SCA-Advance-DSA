@@ -32,7 +32,7 @@
 // Time Complexity: O(n)
 // Auxiliary Space: O(n), as implicit stack is used due to recursion
 
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 
 public class RecursiveMinMax {
 

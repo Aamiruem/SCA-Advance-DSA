@@ -6,7 +6,7 @@
 
 
 
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 
 public class RecursionReversedArrays {
     public static void reversedArray(int arr[], int start, int end){

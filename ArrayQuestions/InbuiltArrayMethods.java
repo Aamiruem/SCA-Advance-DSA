@@ -13,7 +13,7 @@
 
 
 
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 import java.util.Arrays;
 public class InbuiltArrayMethods {
     public static void main(String[] args) {

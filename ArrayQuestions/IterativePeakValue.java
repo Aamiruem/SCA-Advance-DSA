@@ -7,7 +7,7 @@
 
 
 
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 
 public class IterativePeakValue {
     public static int findPeack(int arr[], int n){

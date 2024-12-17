@@ -1,4 +1,4 @@
-package out.production.ArrayQuestions;
+// package out.production.ArrayQuestions;
 import java.util.Arrays;
 public class LibraryMinMax {
     public static int getMin(int arr[], int n){

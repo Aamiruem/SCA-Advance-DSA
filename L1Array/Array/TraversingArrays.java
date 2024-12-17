@@ -21,7 +21,7 @@
 // for (type var : array) { }
 
 
-package Array;
+// package Array;
 
 public class TraversingArrays {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class TraversingArrays {
         int[] arr = { 10, 20, 30, 40, 50, 60, 70, 80, 90 };
 
         for (int x : arr) {
-            System.out.println(x);
+            System.out.print(x + " ");
         }
     }
 }
