@@ -21,7 +21,7 @@
 
 
 
-package Array;
+// package Array;
 
 public class SecondLastLargestElements {
 
@@ -43,7 +43,7 @@ public class SecondLastLargestElements {
     }
 
     public static void main(String[] args) {
-        int[] arr = {34, 2, 30, 4, 50};
+        int[] arr = {34, 2, 30, 4, 50, 39};
         int secondLargest = findSecondLargest(arr);
         System.out.println("Second last largest element is: " + secondLargest);
     }
