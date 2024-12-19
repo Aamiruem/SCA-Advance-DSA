@@ -75,8 +75,8 @@ public class pairSum {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 3, 4, 5 };
-        int target = 6;
+        int[] arr = { 1, 2, 3, 4, 8};
+        int target = 9;
         System.out.println("Number of pairs with sum " + target + " is: " + optimizedPairSum(arr, target));
     }
 }
