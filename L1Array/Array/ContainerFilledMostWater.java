@@ -66,7 +66,7 @@ public class ContainerFilledMostWater {
         System.out.println("The maximum area that can contain water = " + obj.maxArea(height));
 
         // 2nd test case
-        int[] height1 = {1, 2};
+        int[] height1 = {1, 5, 4, 3};
 
         System.out.println("The maximum area that can contain water = " + obj.maxArea(height1));
     }
