@@ -49,7 +49,7 @@
 
 
 
-package Array;
+// package Array;
 
 public class findManyDuplicates {
     public static void findDuplicates(int arr[]) {
