@@ -80,7 +80,7 @@
 
 
 
-package Array;
+// package Array;
 
 public class WateringPlants2105 {
     public int minimumRefill(int[] plants, int capacityA, int capacityB) {

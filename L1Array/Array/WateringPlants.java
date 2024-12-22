@@ -139,7 +139,7 @@
 
 
 
-package Array;
+// package Array;
 
 public class WateringPlants {
     public int wateringPlants(int[] plants, int capacity) {
