@@ -1,5 +1,6 @@
 public class LengthCapacity {
     public static void main(String[] args) {
+        @SuppressWarnings("StringBufferMayBeStringBuilder")
         StringBuffer sb = new StringBuffer("DSA");
         System.out.println(sb.length()); // 0
         System.out.println(sb.capacity()); // 16
