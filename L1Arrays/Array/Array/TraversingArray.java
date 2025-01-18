@@ -21,9 +21,9 @@
 // for (type var : array) { }
 
 
-package Array;
+// package Array;
 
-public class TraversingArrays {
+public class TraversingArray {
     public static void main(String[] args) {
 
         //array declaration

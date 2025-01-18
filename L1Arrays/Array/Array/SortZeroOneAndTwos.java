@@ -1,8 +1,8 @@
-package Array;
+// package Array;
 
 import java.util.Arrays;
 
-public class SortZeroOneAndTwo {
+public class SortZeroOneAndTwos {
     public static void sort012(int arr[]) {
         int n = arr.length;
         int left = 0;

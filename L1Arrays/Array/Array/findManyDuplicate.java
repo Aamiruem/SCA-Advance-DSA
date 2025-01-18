@@ -49,9 +49,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class findManyDuplicates {
+public class findManyDuplicate {
     public static void findDuplicates(int arr[]) {
         int n = arr.length;
         System.out.println("Duplicate numbers are: ");

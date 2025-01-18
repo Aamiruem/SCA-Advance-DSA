@@ -21,9 +21,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class SecondLastLargestElements {
+public class SecondLastLargestElement {
 
     public static int findSecondLargest(int[] arr) {
         int max, secMax;

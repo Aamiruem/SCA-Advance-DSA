@@ -39,11 +39,11 @@
  // sortZeroOne
 
  
-package Array;
+// package Array;
 
 import java.util.Arrays;
 
-public class sort0And1 {
+public class sort0And1s {
 
     public static void sortZeroAndOne(int[] arr) {
         int left = 0;

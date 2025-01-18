@@ -32,9 +32,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class PairSum {
+public class PairSums {
 
     public static int betterPairSum(int arr[], int target){
         int count = 0;

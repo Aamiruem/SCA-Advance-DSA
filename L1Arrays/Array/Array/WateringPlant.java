@@ -139,9 +139,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class WateringPlants {
+public class WateringPlant {
     public int wateringPlants(int[] plants, int capacity) {
         int count =0;
         int a = capacity;
@@ -161,7 +161,7 @@ public class WateringPlants {
     public static void main(String[] args) {
         int[] plant = {2, 2, 3, 3};
         int capacity = 5;
-        WateringPlants obj = new WateringPlants();
+        WateringPlant obj = new WateringPlant();
         System.out.println(obj.wateringPlants(plant, capacity));
     }
 }

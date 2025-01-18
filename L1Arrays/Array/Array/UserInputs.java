@@ -32,11 +32,11 @@
 
 
 
-package Array;
+// package Array;
 
 import java.util.Scanner;
 
-public class UserInput {
+public class UserInputs {
 
     public static void main(String[] args) {
         // Declaration of the array

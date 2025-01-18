@@ -27,9 +27,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class ContainerFilledMostWater {
+public class ContainerFilledMostWaters {
 
     // Optimized method to find the maximum area using two pointers
     public int maxArea(int[] height) {
@@ -61,7 +61,7 @@ public class ContainerFilledMostWater {
     public static void main(String[] args) {
         int[] height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
 
-        ContainerFilledMostWater obj = new ContainerFilledMostWater();
+        ContainerFilledMostWaters obj = new ContainerFilledMostWaters();
 
         System.out.println("The maximum area that can contain water = " + obj.maxArea(height));
 

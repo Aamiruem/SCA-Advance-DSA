@@ -26,11 +26,11 @@
 
 
 
-package Array;
+// package Array;
 
 import java.util.HashSet;
 
-public class findDuplicateNumbers {
+public class findDuplicateNumber {
     public static void findDuplicates(int[] arr) {
         HashSet<Integer> seen = new HashSet<>();
         boolean found = false;

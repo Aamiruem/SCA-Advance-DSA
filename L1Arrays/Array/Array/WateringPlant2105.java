@@ -80,9 +80,9 @@
 
 
 
-package Array;
+// package Array;
 
-public class WateringPlants2105 {
+public class WateringPlant2105 {
     public int minimumRefill(int[] plants, int capacityA, int capacityB) {
         int canA = capacityA, canB = capacityB;
         int refillA = 0, refillB = 0;
@@ -118,7 +118,7 @@ public class WateringPlants2105 {
     }
 
     public static void main(String[] args) {
-        WateringPlants2105 sol = new WateringPlants2105();
+        WateringPlant2105 sol = new WateringPlant2105();
         int[] plants = {2, 2, 3, 3};
         int capacityA = 5;
         int capacityB = 5;
