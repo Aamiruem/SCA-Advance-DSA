@@ -12,8 +12,14 @@ public class Buffers {
         System.out.println("Length: " + sb.length());
         System.out.println("Capacity: " + sb.capacity());
         
-        
+
         sb.append(" Placement: ");
+        System.out.println("Length: " + sb.length());
+        System.out.println("Capacity: " + sb.capacity());
+
+
+        sb.append(" Algorithm");
+        sb.ensureCapacity(70);
         System.out.println("Length: " + sb.length());
         System.out.println("Capacity: " + sb.capacity());
 
