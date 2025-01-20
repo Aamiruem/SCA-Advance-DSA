@@ -16,8 +16,8 @@
 // }
 
 
-public class PalindromeChecker {
 
+public class PalindromeChecker {
     public static boolean isPalindrome(String str) {
         int i, j;
         for (i = 0, j = str.length() - 1; i < j; i++, j--) {
@@ -36,3 +36,4 @@ public class PalindromeChecker {
         System.out.println(isPalindrome("abba")); // true
     }
 }
+
