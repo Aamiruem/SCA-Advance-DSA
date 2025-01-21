@@ -118,6 +118,5 @@ public class CompressString {
     public static void main(String[] args) {
         compressString("aabcccccaaa");
         compressString("abcd");
-
     }
 }
