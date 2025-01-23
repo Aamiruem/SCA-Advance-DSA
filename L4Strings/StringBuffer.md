@@ -53,11 +53,11 @@ Efficient for Frequent Modifications:
 
 Reduces memory overhead compared to using immutable strings (String) in scenarios with frequent concatenation, insertion, or deletion.
 Comparison of StringBuffer, StringBuilder, and String:
-Feature	String	StringBuffer	StringBuilder
-Mutability	Immutable	Mutable	Mutable
-Thread Safety	Not thread-safe	Thread-safe (synchronized)	Not thread-safe
-Performance	Slow for frequent changes	Slower due to synchronization	Faster for single-threaded
-Memory Usage	Higher	Lower	Lower
+Feature String StringBuf StringBuilder
+Mutability Immutable Mutable Mutable
+Thread Safety Not thread-safe Thread-safe (synchronized) Not thread-safe
+Performance Slow for frequent changes Slower due to synchronization Faster for single-threaded
+Memory Usage Higher Lower Lower
 When to Use StringBuffer:
 In multi-threaded applications where multiple threads need to access and modify the same string.
 When string manipulations involve append, insert, delete, or replace operations in a thread-safe environment.
