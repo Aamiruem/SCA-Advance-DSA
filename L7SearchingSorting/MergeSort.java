@@ -115,7 +115,7 @@
 
 public class MergeSort {
 
-    // Merge function to combine two sorted subarrays
+    //todo Merge function to combine two sorted subarrays
     public static void merge(int[] arr, int start, int end) {
         // Calculate the middle point of the array
         int mid = (start + end) / 2;
